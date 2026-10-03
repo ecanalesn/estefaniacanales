@@ -1,0 +1,32 @@
+# Dependencies
+node_modules/
+
+# Development files
+src/
+*.vue
+*.js
+*.ts
+*.jsx
+*.tsx
+
+# Build tools
+vite.config.js
+package.json
+package-lock.json
+
+# Git
+.git/
+.gitignore
+
+# IDE
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Environment files
+.env*
+
+# Documentation
+README.md
